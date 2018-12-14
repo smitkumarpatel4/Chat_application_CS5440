@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "273310819143",
+    "firebase_url": "https://classchat-19110.firebaseio.com",
+    "project_id": "classchat-19110",
+    "storage_bucket": "classchat-19110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273310819143:android:09dc4e8b8b20280f",
+        "android_client_info": {
+          "package_name": "com.classchat.csula.classchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273310819143-v1ub8j1mb7o3cuh7kpn9171h3je4q7pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQgan4CZyj1yg3bonBOquZooYwZfBt-M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
